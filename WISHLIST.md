@@ -1,0 +1,12 @@
+# Wishlist
+- [ ] Serial monitor after flashing
+- [ ] Linux version
+- [ ] Aligned `Reload` and `Browse` buttons
+- [ ] Fields/placeholders for MAC Address and Chip ID
+- [ ] Log file for flashed cores with MAC Address and Chip ID
+- [ ] Field for Device Name for Log file
+- [ ] Write SSID/Password into Flash 
+- [x] Hard Reset after Flash
+- [x] Show MAC Address
+- [x] Show Chip ID
+- [x] Proper Mac OS Retina display
