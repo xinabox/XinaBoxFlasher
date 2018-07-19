@@ -6,6 +6,9 @@
 - [ ] Log file for flashed cores with MAC Address and Chip ID
 - [ ] Field for Device Name for Log file
 - [ ] Write SSID/Password into Flash 
+- [ ] Code sign Windows .EXE
+- [ ] Code sign Mac OS .DMG
+- [ ] Accept Arduino ESP32 .bin
 - [x] Hard Reset after Flash
 - [x] Show MAC Address
 - [x] Show Chip ID
