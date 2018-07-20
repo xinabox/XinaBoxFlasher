@@ -1,4 +1,4 @@
-# XinaBox Flasher
+# xFlasher
 This tool allows you to flash an Application to the XinaBox CW01 or CW02.
 
 # Installation
