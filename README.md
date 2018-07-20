@@ -11,3 +11,6 @@ Find the latest release for Windows and Mac OS here: [latest](https://github.com
 
 ## Mac OS
 ![Mac OS version](/images/FlasherMac.gif)
+
+# Credit
+This app was originally based on https://github.com/marcelstoer/nodemcu-pyflasher/blob/master/LICENSE by Marcel Stör (2016)
