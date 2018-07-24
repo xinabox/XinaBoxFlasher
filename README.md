@@ -4,6 +4,7 @@ This tool allows you to flash an Application to the XinaBox CW01 or CW02.
 # Installation
 Find the latest release for Windows and Mac OS here: [latest](https://github.com/xinabox/XinaBoxFlasher/releases/latest)
 ![Mac OSX version](/images/badge-download-on-the-mac-app-store.svg)
+[![Mac OSX version](/images/badge-download-on-the-mac-app-store.svg)](https://itunes.apple.com/)
 
 # Usage
 
