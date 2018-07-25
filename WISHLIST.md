@@ -7,7 +7,9 @@
 - [ ] Field for Device Name for Log file
 - [ ] Write SSID/Password into Flash 
 - [ ] Code sign Windows .EXE
-- [ ] Code sign Mac OS .DMG
+- [ ] Available on Microsoft App Store
+- [x] Code sign Mac OS .DMG
+- [x] Available on Mac App Store
 - [ ] Accept Arduino ESP32 .bin
 - [x] Hard Reset after Flash
 - [x] Show MAC Address
