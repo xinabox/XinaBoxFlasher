@@ -1,12 +1,12 @@
-# Wishlist
-- [ ] Serial monitor after flashing
+# TODO List
+- [x] Serial monitor after flashing
 - [ ] Linux version
 - [ ] Aligned `Reload` and `Browse` buttons
-- [ ] Fields/placeholders for MAC Address and Chip ID
+- [x] Fields/placeholders for MAC Address and Chip ID
 - [ ] Log file for flashed cores with MAC Address and Chip ID
 - [ ] Field for Device Name for Log file
-- [ ] Write SSID/Password into Flash 
-- [ ] Code sign Windows .EXE
+- [x] Write SSID/Password into Flash, plus other fields for provisioning
+- [x] Code sign Windows .EXE
 - [ ] Available on Microsoft App Store
 - [x] Code sign Mac OS .DMG
 - [x] Available on Mac App Store
