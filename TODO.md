@@ -1,17 +1,18 @@
 # TODO List
 - [x] Serial monitor after flashing
 - [ ] Linux version
-- [ ] Aligned `Reload` and `Browse` buttons
 - [x] Fields/placeholders for MAC Address and Chip ID
 - [ ] Log file for flashed cores with MAC Address and Chip ID
-- [ ] Field for Device Name for Log file
+- [x] Field for Device Name for Log file
 - [x] Write SSID/Password into Flash, plus other fields for provisioning
 - [x] Code sign Windows .EXE
 - [ ] Available on Microsoft App Store
 - [x] Code sign Mac OS .DMG
 - [x] Available on Mac App Store
-- [ ] Accept Arduino ESP32 .bin
+- [x] Partly support - no provisioning and only to a certain size - Accept Arduino ESP32 .bin
+- [ ] Full support - Accept Arduino ESP32 .bin
 - [x] Hard Reset after Flash
 - [x] Show MAC Address
 - [x] Show Chip ID
 - [x] Proper Mac OS Retina display
+- [ ] Erase WiFi creditials when Erase Flash
