@@ -7,12 +7,8 @@ Find the latest release for Windows and Mac OS here: [latest](https://github.com
 [![Mac OSX version](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg)](https://geo.itunes.apple.com/us/app/xflasher/id1414955716?mt=12)
 
 # Usage
+![See XinaBox Wiki](https://wiki.xinabox.cc/Samples)
 
-## Windows
-![Windows version](/images/FlasherWin.gif)
-
-## Mac OS
-![Mac OS version](/images/FlasherMac.gif)
 
 # Credit
 This app was originally based on https://github.com/marcelstoer/nodemcu-pyflasher/blob/master/LICENSE by Marcel Stör (2016)
