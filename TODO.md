@@ -16,3 +16,4 @@
 - [x] Show Chip ID
 - [x] Proper Mac OS Retina display
 - [ ] Erase WiFi creditials when Erase Flash
+- [ ] Make sure the size of the main screen fits inside max resolution
